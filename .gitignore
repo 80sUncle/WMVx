@@ -15,5 +15,6 @@
 Dependencies/
 build/
 Support Files/definitions
+vcpkg_installed/
 
 CMakeUserPresets.json
